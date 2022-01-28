@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lidemy-react-reduxToolkit-blog-app/static/css/main.c35ccadf.css",
+    "main.js": "/Lidemy-react-reduxToolkit-blog-app/static/js/main.f2d17493.js",
+    "index.html": "/Lidemy-react-reduxToolkit-blog-app/index.html",
+    "main.c35ccadf.css.map": "/Lidemy-react-reduxToolkit-blog-app/static/css/main.c35ccadf.css.map",
+    "main.f2d17493.js.map": "/Lidemy-react-reduxToolkit-blog-app/static/js/main.f2d17493.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c35ccadf.css",
+    "static/js/main.f2d17493.js"
+  ]
+}
